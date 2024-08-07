@@ -36,3 +36,7 @@ plt.ylabel('Price')
 plt.title('House Price Prediction')
 plt.legend()
 plt.show()
+
+
+if __name__ == "__main__":
+    main()
